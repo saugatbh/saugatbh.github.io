@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Saugat
+title: 
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Intelligent Systems Research Centre, Ulster University
 
