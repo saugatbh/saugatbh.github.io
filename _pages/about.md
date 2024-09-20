@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /Saugat Bhattacharyya/
+permalink: /Saugat/
 subtitle: <a href='#'>Affiliations</a>. Intelligent Systems Research Centre, Ulster University
 
 profile:
