@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Intelligent Systems Research Centre, Ulster University
 
 profile:
   align: right
@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Dr Saugat Bhattacharyya is a Lecturer in Computer Science in the School of Computing, Engineering & Intelligent Systems. His research interests are in the area of Brain-Computer Interfacing, Neurotechnology, Human Cognitive Augmentation, Artificial Intelligence, Data Analytics and Machine Learning and its application in Human-Machine Interaction and Neuro-Rehabilitation. His research is primarily focused on developing brain-computer interfacing systems based on robust signal processing, quantitative and machine learning algorithms to draw inference into an users' state of mind through their neural and other physiological signals. He has over 60 publications in form of peer-reviewed journals and international conferences. He is a recipient of US-Ireland R&D Partnership Programme, MRC Equipment Grant and GCRF pump-priming as co-investigator and two PhD fellowships by CSIR, India and Erasmus Mundus. He is currently serving as treasurer in the IEEE-EMBS UK-Ireland chapter and as associate editor/section board member in Frontiers in Medical Technology and MDPI Brain Sciences.
+I'm Dr. Saugat Bhattacharyya, a Lecturer in Computer Science at the School of Computing, Engineering & Intelligent Systems. My research revolves around Brain-Computer Interfaces (BCI), Neurotechnology, AI, Data Analytics, and Machine Learning, particularly in their applications to Human-Machine Interaction and Neuro-Rehabilitation. I focus on developing advanced BCI systems that use sophisticated signal processing and machine learning algorithms to interpret a user's mental state through their brain and physiological signals.
+
+I've published over 60 papers in peer-reviewed journals and international conferences, and I've been lucky enough to be involved in several exciting research projects, like the US-Ireland R&D Partnership Programme and the MRC Equipment Grant. I’ve also received PhD fellowships from CSIR, India, and Erasmus Mundus. Currently, I serve as treasurer for the IEEE-EMBS UK-Ireland chapter and as an associate editor for Frontiers in Medical Technology and MDPI Brain Sciences.
